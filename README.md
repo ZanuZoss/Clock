@@ -20,4 +20,4 @@ Clock is a small program written in VBScript that displays the current time when
 
 ## Example
 
-![plot](./example.png)
+![plot](./exampleimage.png)
