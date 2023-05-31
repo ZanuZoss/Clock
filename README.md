@@ -19,3 +19,5 @@ Clock is a small program written in VBScript that displays the current time when
 4. A pop-up window will open, showing the current time.
 
 ## Example
+
+![plot](./example.png)
